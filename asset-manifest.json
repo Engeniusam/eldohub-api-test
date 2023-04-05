@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eldohub-api-test/static/css/main.83adc007.css",
+    "main.js": "/eldohub-api-test/static/js/main.358ee1c9.js",
+    "static/js/787.c2ebcd3b.chunk.js": "/eldohub-api-test/static/js/787.c2ebcd3b.chunk.js",
+    "static/media/welcome.png": "/eldohub-api-test/static/media/welcome.984c2e9aece37c081794.png",
+    "static/media/chuck__logo.png": "/eldohub-api-test/static/media/chuck__logo.8cef148e44782b060a5c.png",
+    "index.html": "/eldohub-api-test/index.html",
+    "main.83adc007.css.map": "/eldohub-api-test/static/css/main.83adc007.css.map",
+    "main.358ee1c9.js.map": "/eldohub-api-test/static/js/main.358ee1c9.js.map",
+    "787.c2ebcd3b.chunk.js.map": "/eldohub-api-test/static/js/787.c2ebcd3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83adc007.css",
+    "static/js/main.358ee1c9.js"
+  ]
+}
