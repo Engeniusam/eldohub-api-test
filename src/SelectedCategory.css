@@ -1,0 +1,21 @@
+.select{
+    width: 200px;
+    height: 30px;
+    border-radius: 999px;
+    background-color: greenyellow;
+    color: brown;
+    font-weight: 800;
+}
+
+.select:hover{
+    background-color: brown;
+    color:greenyellow;
+    outline:none;
+}
+@media (max-width:940px){
+    .select{
+        width: 150px;
+        font-weight:700;
+        margin-bottom: 20px;
+    }
+}

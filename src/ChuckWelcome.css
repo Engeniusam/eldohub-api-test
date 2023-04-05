@@ -1,0 +1,31 @@
+.chuckWelcome__info{
+    display: grid;
+    place-items: center;
+}
+.chuckWelcome__info > img{
+    object-fit: contain;
+    height: 250px;
+}
+.chuckWelcome__info__text{
+    margin: 15px;
+}
+.chuckWelcome__info__text--effect{
+font-size: 130%;
+    color: brown;
+}
+.chuckWelcome__info__text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.emoji{
+    font-size: 250%;
+}
+@media (max-width:940px){
+    .chuckWelcome__info__text--effect{
+         font-size: 14px;
+    }
+    .emoji{
+        font-size: 150%;
+    }
+}
